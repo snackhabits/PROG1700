@@ -19,11 +19,11 @@ y = txtone.replace("apples and oranges", "candy")           #replaces first text
 print(y)
 
 stringthing = "September is a terrible month"
-z = stringthing.startswith("October")             #If string starts with chosen string, returns TRUE
+z = stringthing.startswith("September")             #If string starts with chosen string, returns TRUE
 print(z)
 
 r = stringthing.title()                 #Converts first character to upper case lettering
 print(r)
 
-s = y.upper()              #converts string to uppercase lettering
+s = stringthing.upper()              #converts string to uppercase lettering
 print(s)
