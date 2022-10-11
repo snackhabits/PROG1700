@@ -37,5 +37,4 @@ print(txtpostsec.format(UNI, COLLEGE, career_one))
 '''
 End of StoryTime part II
 
-
 '''
